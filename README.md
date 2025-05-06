@@ -1,1 +1,0 @@
-# A RAG-based Document Question Answering system with PDF support and chat history using LLMs. Built with Streamlit, LangChain, and vector databases.

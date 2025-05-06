@@ -1,0 +1,8 @@
+langchain
+python-dotenv
+streamlit
+langchain-community
+pypdf
+langchain-chroma
+langchain-groq
+chromadb==0.4.14
